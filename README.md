@@ -12,6 +12,7 @@ npm install
 
 # Deployment
 Run:
+
 serverless deploy
 
 Endpoints:
