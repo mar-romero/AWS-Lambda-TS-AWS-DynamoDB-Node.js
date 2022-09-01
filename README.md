@@ -1,4 +1,4 @@
-# AWS-Ñambda-TS-AWS-DynamoDB-Node.js
+# AWS-Lambda-TS-AWS-DynamoDB-Node.js
 
 # Prerequisites
 AWS CLI installed and configured
